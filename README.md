@@ -1,0 +1,2 @@
+# magicmail
+MagicMail application
